@@ -197,19 +197,4 @@ public class PlanoCartesiano extends JPanel{
         this.tipoFigura = tipoFigura;
     }
 
-    /**
-     * Metodo que obtiene el radio
-     * @return radio
-     */
-    public double getRadio() {
-        return radio;
-    }
-
-    /**
-     * Metodo que cambia el radio
-     * @param radio 
-     */
-    public void setRadio(double radio) {
-        this.radio = radio;
-    }
 }
